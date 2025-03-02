@@ -49,13 +49,13 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: 2rem 5rem;
+  margin: 2rem 3rem;
 }
 
 .nav__list__item {
   text-decoration: none;
   color: #ffffff;
-  padding: 2rem;
+  padding: 2.5rem;
   text-align: center;
 }
 
